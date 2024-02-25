@@ -1,0 +1,590 @@
+[
+  {
+    "name": "Ahri",
+    "type": "mage"
+  },
+  {
+    "name": "Aatrox",
+    "type": "tank"
+  },
+  {
+    "name": "Alistar",
+    "type": "support"
+  },
+  {
+    "name": "Annie",
+    "type": "mage"
+  },
+  {
+    "name": "Aphelios",
+    "type": "marksmen"
+  },
+  {
+    "name": "Ashe",
+    "type": "marksmen"
+  },
+  {
+    "name": "Aurelion Sol",
+    "type": "mage"
+  },
+  {
+    "name": "Azir",
+    "type": "mage"
+  },
+  {
+    "name": "Bard",
+    "type": "support"
+  },
+  {
+    "name": "Blitzcrank",
+    "type": "support"
+  },
+  {
+    "name": "Brand",
+    "type": "mage"
+  },
+  {
+    "name": "Braum",
+    "type": "support"
+  },
+  {
+    "name": "Caitlyn",
+    "type": "marksmen"
+  },
+  {
+    "name": "Camille",
+    "type": "fighter"
+  },
+  {
+    "name": "Cassiopeia",
+    "type": "mage"
+  },
+  {
+    "name": "Cho'Gath",
+    "type": "tank"
+  },
+  {
+    "name": "Corki",
+    "type": "marksmen"
+  },
+  {
+    "name": "Darius",
+    "type": "fighter"
+  },
+  {
+    "name": "Diana",
+    "type": "fighter"
+  },
+  {
+    "name": "Draven",
+    "type": "marksmen"
+  },
+  {
+    "name": "Dr. Mundo",
+    "type": "tank"
+  },
+  {
+    "name": "Ekko",
+    "type": "assassin"
+  },
+  {
+    "name": "Elise",
+    "type": "mage"
+  },
+  {
+    "name": "Evelynn",
+    "type": "assassin"
+  },
+  {
+    "name": "Ezreal",
+    "type": "marksmen"
+  },
+  {
+    "name": "Fiddlesticks",
+    "type": "mage"
+  },
+  {
+    "name": "Fizz",
+    "type": "assassin"
+  },
+  {
+    "name": "Fiora",
+    "type": "fighter"
+  },
+  {
+    "name": "Galio",
+    "type": "tank"
+  },
+  {
+    "name": "Gangplank",
+    "type": "fighter"
+  },
+  {
+    "name": "Garen",
+    "type": "fighter"
+  },
+  {
+    "name": "Gnar",
+    "type": "tank"
+  },
+  {
+    "name": "Graves",
+    "type": "marksmen"
+  },
+  {
+    "name": "Hecarim",
+    "type": "fighter"
+  },
+  {
+    "name": "Heimerdinger",
+    "type": "mage"
+  },
+  {
+    "name": "Illaoi",
+    "type": "fighter"
+  },
+  {
+    "name": "Irelia",
+    "type": "fighter"
+  },
+  {
+    "name": "Ivern",
+    "type": "support"
+  },
+  {
+    "name": "Janna",
+    "type": "support"
+  },
+  {
+    "name": "Jarvan IV",
+    "type": "tank"
+  },
+  {
+    "name": "Jax",
+    "type": "fighter"
+  },
+  {
+    "name": "Jhin",
+    "type": "marksmen"
+  },
+  {
+    "name": "Jinx",
+    "type": "marksmen"
+  },
+  {
+    "name": "Kaisa",
+    "type": "marksmen"
+  },
+  {
+    "name": "Kalista",
+    "type": "marksmen"
+  },
+  {
+    "name": "Karma",
+    "type": "mage"
+  },
+  {
+    "name": "Karthus",
+    "type": "mage"
+  },
+  {
+    "name": "Kassadin",
+    "type": "mage"
+  },
+  {
+    "name": "Katarina",
+    "type": "assassin"
+  },
+  {
+    "name": "Kayle",
+    "type": "marksmen"
+  },
+  {
+    "name": "Kayn",
+    "type": "assassin"
+  },
+  {
+    "name": "Kennen",
+    "type": "mage"
+  },
+  {
+    "name": "Kha'Zix",
+    "type": "assassin"
+  },
+  {
+    "name": "Kindred",
+    "type": "marksmen"
+  },
+  {
+    "name": "Kled",
+    "type": "tank"
+  },
+  {
+    "name": "Kog'Maw",
+    "type": "marksmen"
+  },
+  {
+    "name": "LeBlanc",
+    "type": "mage"
+  },
+  {
+    "name": "Lee Sin",
+    "type": "fighter"
+  },
+  {
+    "name": "Leona",
+    "type": "support"
+  },
+  {
+    "name": "Lillia",
+    "type": "fighter"
+  },
+  {
+    "name": "Lissandra",
+    "type": "mage"
+  },
+  {
+    "name": "Lucian",
+    "type": "marksmen"
+  },
+  {
+    "name": "Lulu",
+    "type": "support"
+  },
+  {
+    "name": "Lux",
+    "type": "mage"
+  },
+  {
+    "name": "Malphite",
+    "type": "tank"
+  },
+  {
+    "name": "Malzahar",
+    "type": "mage"
+  },
+  {
+    "name": "Maokai",
+    "type": "tank"
+  },
+  {
+    "name": "Markus",
+    "type": "marksmen"
+  },
+  {
+    "name": "Master Yi",
+    "type": "fighter"
+  },
+  {
+    "name": "Miss Fortune",
+    "type": "marksmen"
+  },
+  {
+    "name": "Mordekaiser",
+    "type": "fighter"
+  },
+  {
+    "name": "Morgana",
+    "type": "support"
+  },
+  {
+    "name": "Nami",
+    "type": "support"
+  },
+  {
+    "name": "Nasus",
+    "type": "tank"
+  },
+  {
+    "name": "Nautilus",
+    "type": "tank"
+  },
+  {
+    "name": "Neeko",
+    "type": "mage"
+  },
+  {
+    "name": "Nidalee",
+    "type": "fighter"
+  },
+  {
+    "name": "Nocturne",
+    "type": "assassin"
+  },
+  {
+    "name": "Nunu & Willump",
+    "type": "tank"
+  },
+  {
+    "name": "Olaf",
+    "type": "fighter"
+  },
+  {
+    "name": "Orianna",
+    "type": "mage"
+  },
+  {
+    "name": "Ornn",
+    "type": "tank"
+  },
+  {
+    "name": "Pantheon",
+    "type": "fighter"
+  },
+  {
+    "name": "Poppy",
+    "type": "tank"
+  },
+  {
+    "name": "Pyke",
+    "type": "support"
+  },
+  {
+    "name": "Qiyana",
+    "type": "assassin"
+  },
+  {
+    "name": "Quinn",
+    "type": "marksmen"
+  },
+  {
+    "name": "Rammus",
+    "type": "tank"
+  },
+  {
+    "name": "Rek'Sai",
+    "type": "fighter"
+  },
+  {
+    "name": "Renata Glasc",
+    "type": "mage"
+  },
+  {
+    "name": "Rengar",
+    "type": "assassin"
+  },
+  {
+    "name": "Rell",
+    "type": "support"
+  },
+  {
+    "name": "Riven",
+    "type": "fighter"
+  },
+  {
+    "name": "Rumble",
+    "type": "mage"
+  },
+  {
+    "name": "Ryze",
+    "type": "mage"
+  },
+  {
+    "name": "Samira",
+    "type": "marksmen"
+  },
+  {
+    "name": "Sylas",
+    "type": "support"
+  },
+  {
+    "name": "Sejuani",
+    "type": "tank"
+  },
+  {
+    "name": "Senna",
+    "type": "marksmen"
+  },
+  {
+    "name": "Seraphine",
+    "type": "mage"
+  },
+  {
+    "name": "Sett",
+    "type": "fighter"
+  },
+  {
+    "name": "Shaco",
+    "type": "assassin"
+  },
+  {
+    "name": "Shen",
+    "type": "tank"
+  },
+  {
+    "name": "Shyvana",
+    "type": "fighter"
+  },
+  {
+    "name": "Singed",
+    "type": "tank"
+  },
+  {
+    "name": "Sion",
+    "type": "tank"
+  },
+  {
+    "name": "Sivir",
+    "type": "marksmen"
+  },
+  {
+    "name": "Skarner",
+    "type": "tank"
+  },
+  {
+    "name": "Smolder",
+    "type": "marksmen"
+  },
+  {
+    "name": "Sona",
+    "type": "support"
+  },
+  {
+    "name": "Soraka",
+    "type": "support"
+  },
+  {
+    "name": "Swain",
+    "type": "mage"
+  },
+  {
+    "name": "Syndra",
+    "type": "mage"
+  },
+  {
+    "name": "Tahm Kench",
+    "type": "tank"
+  },
+  {
+    "name": "Taliyah",
+    "type": "mage"
+  },
+  {
+    "name": "Taric",
+    "type": "support"
+  },
+  {
+    "name": "Teemo",
+    "type": "marksmen"
+  },
+  {
+    "name": "Thresh",
+    "type": "support"
+  },
+  {
+    "name": "Tristana",
+    "type": "marksmen"
+  },
+  {
+    "name": "Tryndamere",
+    "type": "fighter"
+  },
+  {
+    "name": "Twisted Fate",
+    "type": "mage"
+  },
+  {
+    "name": "Twitch",
+    "type": "marksmen"
+  },
+  {
+    "name": "Udyr",
+    "type": "fighter"
+  },
+  {
+    "name": "Urgot",
+    "type": "marksmen"
+  },
+  {
+    "name": "Varus",
+    "type": "marksmen"
+  },
+  {
+    "name": "Vayne",
+    "type": "marksmen"
+  },
+  {
+    "name": "Veigar",
+    "type": "mage"
+  },
+  {
+    "name": "Vel'Koz",
+    "type": "mage"
+  },
+  {
+    "name": "Vex",
+    "type": "mage"
+  },
+  {
+    "name": "Vi",
+    "type": "fighter"
+  },
+  {
+    "name": "Viktor",
+    "type": "mage"
+  },
+  {
+    "name": "Vladimir",
+    "type": "mage"
+  },
+  {
+    "name": "Volibear",
+    "type": "fighter"
+  },
+  {
+    "name": "Warwick",
+    "type": "fighter"
+  },
+  {
+    "name": "Wukong",
+    "type": "fighter"
+  },
+  {
+    "name": "Xayah",
+    "type": "marksmen"
+  },
+  {
+    "name": "Xerath",
+    "type": "mage"
+  },
+  {
+    "name": "Yasuo",
+    "type": "fighter"
+  },
+  {
+    "name": "Yone",
+    "type": "fighter"
+  },
+  {
+    "name": "Yorick",
+    "type": "fighter"
+  },
+  {
+    "name": "Yuumi",
+    "type": "support"
+  },
+  {
+    "name": "Zac",
+    "type": "tank"
+  },
+  {
+    "name": "Zed",
+    "type": "assassin"
+  },
+  {
+    "name": "Ziggs",
+    "type": "mage"
+  },
+  {
+    "name": "Zilean",
+    "type": "mage"
+  },
+  {
+    "name": "Zoe",
+    "type": "mage"
+  },
+  {
+    "name": "Zyra",
+    "type": "mage"
+  }
+]
